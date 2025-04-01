@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=3399FF&size=24&center=true&lines=%Welcome+to+my+GitHub+profile%" alt="Typing Animation">
+</p>
+
+![banner](https://github.com/the-shivam-gupta/the-shivam-gupta/blob/main/Banner.png)
+
 # Hi there! I'm Nidhi Ramteke 👋
 
 
