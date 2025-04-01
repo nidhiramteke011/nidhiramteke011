@@ -1,6 +1,8 @@
 # Hi there! I'm Nidhi Ramteke 👋
 
-I'm an **Aspiring Software Developer** and **Frontend Developer** passionate about building responsive and interactive web applications. I specialize in **Java**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **React.js**, and I'm always learning new technologies to improve my skills.
+
+I am a motivated and self-taught **Software Developer** with a strong foundation in **Java** and Frontend **Technologies**, including **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **React.js**. I have experience building responsive, user-friendly websites through hands-on projects and am currently expanding my skills in backend development. Eager to contribute to dynamic development projects while continuing to enhance my knowledge and technical abilities.
+
 
 ## 🔧 Technologies & Tools
 
