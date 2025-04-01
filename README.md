@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Nidhi Ramteke 👋
 
 I'm an **Aspiring Software Developer** and **Frontend Developer** passionate about building responsive and interactive web applications. I specialize in **Java**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **React.js**, and I'm always learning new technologies to improve my skills.
 
