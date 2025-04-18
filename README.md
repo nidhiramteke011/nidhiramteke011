@@ -47,9 +47,9 @@
 | 🚀 Project | 📌 Description | 🛠 Tech | 🔗 Link |
 |-----------|----------------|--------|--------|
 | 🍽️ **GERICHT Restaurant Site** | Responsive food site w/ menu, dishes, contact | HTML, CSS, JS, React | [View](https://github.com/yourusername/gericht-restaurant) |
-| 🛒 **E-Commerce Store** | Shopping site w/ cart, filters, checkout | React, Tailwind | [View](https://github.com/yourusername/ecommerce-site) |
-| 🤖 **Google Gemini Clone** | Gemini AI UI mimic | React, Tailwind | [View](https://github.com/yourusername/google-gemini-clone) |
-| 🗞️ **News App** | Filterable news dashboard | React, Bootstrap | [View](https://github.com/yourusername/news-app) |
+| 🛒 **E-Commerce Store** | Shopping site w/ cart, filters, checkout | HTML, CSS, JS, React, Tailwind | [View](https://github.com/yourusername/ecommerce-site) |
+| 🤖 **Google Gemini Clone** | Gemini AI Clone | HTML, CSS, JS, React | [View](https://github.com/yourusername/google-gemini-clone) |
+| 🗞️ **News App** | Filterable news dashboard | HTML, CSS, JS, Bootstrap, React | [View](https://github.com/yourusername/news-app) |
 
 ---
 
