@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hey there, I'm Nidhi Ramteke 👋</h1>
 <p align="center">
-  🚀 Passionate Web & Java Developer | 🎨 Crafting Responsive UIs | 💻 Backend Logic Enthusiast
+  🚀 Passionate Frontend & Java Developer | 🎨 Crafting Responsive UIs | 💻 Backend Logic Enthusiast
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
@@ -61,7 +61,7 @@
 
 💼 **Full Stack Developer Intern** @ *Advance Infotech*  
 📍 *Nagpur* | *Aug 2024 – Jan 2025*  
-> Built backend logic in Java and crafted responsive frontend using React & Bootstrap.
+> Built backend logic in Java and crafted responsive frontend using HTML, CSS, JS, Bootstrap.
 
 ---
 
