@@ -48,8 +48,8 @@
 |-----------|----------------|--------|--------|
 | 🍽️ **GERICHT Restaurant Site** | Responsive food site w/ menu, dishes, contact | HTML, CSS, JS, React | [View](https://github.com/nidhiramteke011/gericht-restaurant-frontend-project) |
 | 🛒 **E-Commerce Store** | Shopping site w/ cart, filters, checkout | HTML, CSS, JS, React, Tailwind | [View](https://github.com/nidhiramteke011/Forever) |
-| 🤖 **Google Gemini Clone** | Gemini AI Clone | HTML, CSS, JS, React | [View](https://github.com/yourusername/google-gemini-clone) |
-| 🗞️ **News App** | Filterable news dashboard | HTML, CSS, JS, Bootstrap, React | [View](https://github.com/yourusername/news-app) |
+| 🤖 **Google Gemini Clone** | Gemini AI Clone | HTML, CSS, JS, React |  |
+| 🗞️ **News App** | Filterable news dashboard | HTML, CSS, JS, Bootstrap, React |  |
 
 ---
 
